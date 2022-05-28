@@ -1,1 +1,20 @@
-# Zuri-Classes
+# Finding Anagrams
+
+Read the Guidelines first here: Guidelines
+ 
+
+1.  Download the Starter Project here. You can follow the steps outlined in the guidelines.
+
+2.  Open “main.py”, and complete the function “find_anagrams”. It should accept two strings, and determine if they are anagrams. You can read more about anagrams here.
+
+3.  Your function should return True  if they are anagrams, else  False.
+
+ 
+
+Resources: 
+
+String Manipulation in Python - PythonForBeginners.com
+
+Python Lists and List Manipulation | by Michael Galarnyk | Towards Data Science 
+
+Anagrams 
